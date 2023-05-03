@@ -207,7 +207,7 @@ L<https://metacpan.org/release/Algorithm-Graphs-TransitiveClosure-Tiny>
 
 =item * GitHub Repository
 
-https://github.com/AAHAZRED/perl-Algorithm-Graphs-TransitiveClosure-Tiny.git
+L<https://github.com/AAHAZRED/perl-Algorithm-Graphs-TransitiveClosure-Tiny.git>
 
 =back
 
