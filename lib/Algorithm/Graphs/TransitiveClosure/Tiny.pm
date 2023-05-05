@@ -86,7 +86,7 @@ The latter can also be written shorter provided you accept autovivification:
 
 This module provides a single function, C<floyd_warshall>, which is exported
 on demand. It is an implementation of the well known I<Floyd-Warshall>
-algorithm computing the transitive closure of a graph.
+algorithm for computing the transitive closure of a graph.
 
 The code is taken from L<Algorithm::Graphs::TransitiveClosure> but has been
 modified. The difference is that this implementation of C<floyd_warshall()>:
