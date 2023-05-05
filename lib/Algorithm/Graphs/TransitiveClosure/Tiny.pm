@@ -8,7 +8,7 @@ use Exporter 'import';
 
 our @EXPORT_OK = qw(floyd_warshall);
 
-our $VERSION = '1.02';
+our $VERSION = '1.03';
 
 
 sub floyd_warshall {
@@ -55,7 +55,7 @@ Algorithm::Graphs::TransitiveClosure::Tiny - Calculate the transitive closure.
 
 =head1 VERSION
 
-Version 1.02
+Version 1.03
 
 
 =head1 SYNOPSIS
